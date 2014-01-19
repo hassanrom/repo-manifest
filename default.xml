@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github"
+          fetch="https://bitbucket.org" />
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-j="4" />
+
+  <project name="hassanrom/dotfiles" remote="github" path="dotfiles" />
+  <project name="philc/vimium" remote="github" path="vimium" />
+</manifest>
