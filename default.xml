@@ -8,4 +8,7 @@
 
   <project name="hassanrom/dotfiles" remote="github" path="dotfiles" />
   <project name="philc/vimium" remote="github" path="vimium" />
+  <project name="borismus/markdown-preview"
+           remote="github"
+           path="markdown-preview" />
 </manifest>
